@@ -9,8 +9,8 @@ import {
 } from 'react-bulma-components'
 import { useHistory } from 'react-router-dom'
 import Button from '../atoms/Button'
-import hello from '../../assets/images/hello.svg'
-import helloMobile from '../../assets/images/hello-mobile.svg'
+import hello from '../../assets/images/prefooter-desktop-new.svg'
+import helloMobile from '../../assets/images/prefooter-mobile-new.svg'
 import './PreFooter.scss'
 
 const PreFooter = () => {
